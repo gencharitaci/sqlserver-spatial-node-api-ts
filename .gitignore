@@ -1,0 +1,52 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+
+# Dependency directories
+node_modules/
+.node_modules/
+
+# dotenv environment variables file
+.env
+
+**/.DS_Store
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+# VSCode other files
+**/.vs
+**/.vscode/*
+!**/.vscode/tasks.json
+!**/.vscode/settings.template.json
+!**/.vscode/launch.template.json
+!**/.vscode/extensions.json
+
+# Node package lock file
+package-lock.json
+
+# Compiled dist folder
+dist
+
+# Test folder
+test
+tests
+
+# Coverage folder
+coverage
+
+# npm cache directory
+.npm
+
+# eslint cache
+.eslintcache
+
+# map files
+/*/**/*.map
