@@ -2,6 +2,9 @@
 
 A scalable and robust API for managing spatial data in SQL Server, built with **TypeScript** and **Fastify**. This API is designed to provide efficient handling of geospatial queries and seamless integration with GIS systems.
 
+Tobin's [Dirt-Simple PostGIS HTTP API](https://github.com/tobinbradley/dirt-simple-postgis-http-api) inspired me to develop this.
+
+(It's not mature yet, You are welcome for testing)
 
 ## Features
 
