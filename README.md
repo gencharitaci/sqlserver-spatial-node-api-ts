@@ -219,5 +219,3 @@ Thank you for considering this project!
 If you have any questions or need further assistance, feel free to reach out. 
 
 Happy coding!
-
-
