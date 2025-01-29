@@ -1,3 +1,6 @@
+# Ignore
+./src/config/db.config.ts
+
 # Logs
 logs
 *.log
